@@ -1,0 +1,156 @@
+[
+    {
+        "_id": "646121b8aba0c29174d703c5",
+        "name": "Film de Action",
+        "slug": "film-de-action",
+        "description": "Description du film : Film de Action",
+        "solde_price": 19.99,
+        "regular_price": 199.99,
+        "categories": [],
+        "imageUrls": [
+            "films/films_1/128720651978759361188692926651670955583727591684087224260.webp",
+            "films/films_2/128720651978759361188692926651670955583727591684087224260.webp"
+        ],
+        "isAvailable": false,
+        "isBestSeller": false,
+        "isNewArrival": false,
+        "isFeatured": false,
+        "isSpecialOffer": false,
+        "availability": true,
+        "currency": "EUR",
+        "created_at": "2023-05-14T18:00:24.022Z",
+        "__v": 0
+    },
+    {
+        "_id": "646121b8aba0c29174d703c5",
+        "name": "Film de Action",
+        "slug": "film-de-action",
+        "description": "Description du film : Film de Action",
+        "solde_price": 19.99,
+        "regular_price": 199.99,
+        "categories": [],
+        "imageUrls": [
+            "films/films_1/128720651978759361188692926651670955583727591684087224260.webp",
+            "films/films_2/128720651978759361188692926651670955583727591684087224260.webp"
+        ],
+        "isAvailable": false,
+        "isBestSeller": false,
+        "isNewArrival": false,
+        "isFeatured": false,
+        "isSpecialOffer": false,
+        "availability": true,
+        "currency": "EUR",
+        "created_at": "2023-05-14T18:00:24.022Z",
+        "__v": 0
+    },
+    {
+        "_id": "646121b8aba0c29174d703c5",
+        "name": "Film de Action",
+        "slug": "film-de-action",
+        "description": "Description du film : Film de Action",
+        "solde_price": 19.99,
+        "regular_price": 199.99,
+        "categories": [],
+        "imageUrls": [
+            "films/films_1/128720651978759361188692926651670955583727591684087224260.webp",
+            "films/films_2/128720651978759361188692926651670955583727591684087224260.webp"
+        ],
+        "isAvailable": false,
+        "isBestSeller": false,
+        "isNewArrival": false,
+        "isFeatured": false,
+        "isSpecialOffer": false,
+        "availability": true,
+        "currency": "EUR",
+        "created_at": "2023-05-14T18:00:24.022Z",
+        "__v": 0
+    },
+    {
+        "_id": "646121b8aba0c29174d703c5",
+        "name": "Film de Action",
+        "slug": "film-de-action",
+        "description": "Description du film : Film de Action",
+        "solde_price": 19.99,
+        "regular_price": 199.99,
+        "categories": [],
+        "imageUrls": [
+            "films/films_1/128720651978759361188692926651670955583727591684087224260.webp",
+            "films/films_2/128720651978759361188692926651670955583727591684087224260.webp"
+        ],
+        "isAvailable": false,
+        "isBestSeller": false,
+        "isNewArrival": false,
+        "isFeatured": false,
+        "isSpecialOffer": false,
+        "availability": true,
+        "currency": "EUR",
+        "created_at": "2023-05-14T18:00:24.022Z",
+        "__v": 0
+    },
+    {
+        "_id": "646121b8aba0c29174d703c5",
+        "name": "Film de Action",
+        "slug": "film-de-action",
+        "description": "Description du film : Film de Action",
+        "solde_price": 19.99,
+        "regular_price": 199.99,
+        "categories": [],
+        "imageUrls": [
+            "films/films_1/128720651978759361188692926651670955583727591684087224260.webp",
+            "films/films_2/128720651978759361188692926651670955583727591684087224260.webp"
+        ],
+        "isAvailable": false,
+        "isBestSeller": false,
+        "isNewArrival": false,
+        "isFeatured": false,
+        "isSpecialOffer": false,
+        "availability": true,
+        "currency": "EUR",
+        "created_at": "2023-05-14T18:00:24.022Z",
+        "__v": 0
+    },
+    {
+        "_id": "646121b8aba0c29174d703c5",
+        "name": "Film de Action",
+        "slug": "film-de-action",
+        "description": "Description du film : Film de Action",
+        "solde_price": 19.99,
+        "regular_price": 199.99,
+        "categories": [],
+        "imageUrls": [
+            "films/films_1/128720651978759361188692926651670955583727591684087224260.webp",
+            "films/films_2/128720651978759361188692926651670955583727591684087224260.webp"
+        ],
+        "isAvailable": false,
+        "isBestSeller": false,
+        "isNewArrival": false,
+        "isFeatured": false,
+        "isSpecialOffer": false,
+        "availability": true,
+        "currency": "EUR",
+        "created_at": "2023-05-14T18:00:24.022Z",
+        "__v": 0
+    },
+    {
+        "_id": "646121b8aba0c29174d703c5",
+        "name": "Film de Action",
+        "slug": "film-de-action",
+        "description": "Description du film : Film de Action",
+        "solde_price": 19.99,
+        "regular_price": 199.99,
+        "categories": [],
+        "imageUrls": [
+            "films/films_1/128720651978759361188692926651670955583727591684087224260.webp",
+            "films/films_2/128720651978759361188692926651670955583727591684087224260.webp"
+        ],
+        "isAvailable": false,
+        "isBestSeller": false,
+        "isNewArrival": false,
+        "isFeatured": false,
+        "isSpecialOffer": false,
+        "availability": true,
+        "currency": "EUR",
+        "created_at": "2023-05-14T18:00:24.022Z",
+        "__v": 0
+    }
+]
