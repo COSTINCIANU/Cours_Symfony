@@ -1,0 +1,71 @@
+
+
+1 - User 
+    - full_name
+    - last_name
+    - email 
+    - password
+
+
+2 - Product 
+    - name 
+    - slug === (film d'aventure => film-d-aventure) mieux que l'id et plus logique
+    - description 
+    - more_description 
+    - additional_infos 
+    - stock 
+    - solde_price 
+    - regular_price 
+    - categorises 
+    - relatedProducts 
+    - reviews 
+    - brand 
+    - imageUrls 
+    - status 
+    - isBestSeller
+    - isNewArrival 
+    - isFeatured 
+    - isSpecialOffer 
+    - options 
+
+2 BIS  - Film 
+            - name 
+            - slug === (film d'aventure => film-d-aventure) mieux que l'id et plus logique
+            - description 
+            - more_description 
+            - additional_infos 
+                - stock  (int)
+            - solde_price 
+            - regular_price 
+            - categorises  === relation avec l'etite Category ManyToMany
+            - relatedFilms 
+            - reviews   (Avis)
+                - brand     (Marque)  [string 255  null = yes ]
+            - imageUrls  [array  255  null = no ]
+            - status     --- (isAvailable)  [boolean 255 null = yes ] 
+            - isBestSeller  [boolean 255 null = yes ] 
+            - isNewArrival  [boolean 255 null = yes ] 
+            - isFeatured     [boolean 255 null = yes ] 
+            - isSpecialOffer   [boolean 255 null = yes ] 
+            - options 
+
+
+3 - Category 
+ 
+    - name 
+    - slug 
+    - description 
+    - products 
+    - imageUrls 
+    - isMega 
+    
+
+3 BIS - Category 
+
+        - name 
+        - slug 
+        - description 
+        - films 
+        - imageUrls 
+        - isMega 
+        
